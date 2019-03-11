@@ -1,0 +1,47 @@
+body {
+    font-family: 'Germania One', cursive;
+    width: 100%;
+    opacity: 1;
+    background-image: url("../img/burger_image.jpg");
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    background-position: center;
+    color: red;
+
+}
+
+#avail {
+    float: left;
+    margin-right: 6%;
+    margin-left: 10%;
+    background-color:lightgreen;
+    
+
+
+}
+
+#devoured {
+    float: left;
+    background-color: lightgreen;
+
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+    margin-left: 25%;
+
+}
+label {
+    background-color: lightgreen;
+}
